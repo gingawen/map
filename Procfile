@@ -1,1 +1,1 @@
-web: gunicorn app02:app
+web: railties app02:app
