@@ -1,1 +1,1 @@
-web: railties app02:app
+web: rails app02:app
