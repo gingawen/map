@@ -5,7 +5,7 @@ git_source(:github) do |map|
   "https://github.com/#{map}.git"
 end
 
-##gem 'rails', '~> 5.0.7.2'
+gem 'rails', '~> 5.0.1'
 gem 'puma', '~> 3.4.0'
 gem 'sass-rails', '~> 6.0'
 gem 'uglifier', '>= 2.7.2'
