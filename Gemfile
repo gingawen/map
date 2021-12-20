@@ -6,7 +6,7 @@ git_source(:github) do |map|
 end
 
 ##gem 'rails', '~> 5.0.1'
-gem 'puma', '~> 3.0'
+gem 'puma', '~> 3.4.0'
 gem 'sass-rails', '~> 6.0'
 gem 'uglifier', '>= 2.7.2'
 gem 'coffee-rails', '~> 5.0.0'
