@@ -1,1 +1,1 @@
-web: rails app02:app
+web: unicorn app02:app
