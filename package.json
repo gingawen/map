@@ -1,0 +1,8 @@
+{
+    "name": "test819",
+    "description": "a really cool app",
+    "version": "1.0.0",
+    "engines": {
+      "ruby": "2.7.5"
+      }
+   }
