@@ -5,14 +5,15 @@ git_source(:github) do |test|
   "https://github.com/#{test}.git"
 end
 
-gem 'rails', '~> 5.0.7.2'
+##gem 'rails', '~> 5.0.7.2'
 gem 'puma', '~> 3.4.0'
 gem 'sass-rails', '~> 6.0'
 gem 'uglifier', '>= 2.7.2'
-gem 'coffee-rails', '~> 5.0.0'
+gem 'coffee-rails', '~> 5.2.0'
 gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7.0'
+gem 'railties', '~> 5.0.7.2'
 
 group :development, :test do
   gem 'byebug', platform: :mri
