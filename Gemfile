@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-git_source(:github) do |test|
-  test = "#{test}/#{test}" unless test.include?("/")
-  "https://github.com/#{test}.git"
+git_source(:github) do |map|
+  map = "#{map}/#{map}" unless map.include?("/")
+  "https://github.com/#{map}.git"
 end
 
 ##gem 'rails', '~> 5.0.7.2'
