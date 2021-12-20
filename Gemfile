@@ -13,7 +13,7 @@ gem 'coffee-rails', '~> 5.0.0'
 gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7.0'
-gem 'railties', '~> 5.0.7.2'
+gem 'railties', '~> 5.2.0'
 
 group :development, :test do
   gem 'byebug', platform: :mri
